@@ -2,6 +2,8 @@
 
 First project on JS. Free replacement of VPS with nginx. Free custom domain solution for uptimerobot service.
 
+More (main) examples for cloudflare workers [here](https://developers.cloudflare.com/workers/examples).
+
 ## DNS configuration
 One line - one magic.
 
